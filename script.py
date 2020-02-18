@@ -22,3 +22,11 @@ elif valeur == 'n':
 else:
     print('Je n\'ai rien commpris cabron')
 
+print('Il est bien ce questionnaire ?')
+valeur = str(input())
+if valeur == 'y':
+    print('super !')
+elif valeur == 'n':
+    print('dommage...')
+else:
+    print('Je n\'ai rien commpris cabron')
