@@ -30,3 +30,4 @@ elif valeur == 'n':
     print('dommage...')
 else:
     print('Je n\'ai rien commpris cabron')
+
