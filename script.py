@@ -3,3 +3,14 @@ print('Je me situe à coté du charmant Pierre Pellegrin !')
 print('Il est beau')
 print('Je me dois de rétablir la vérité :')
 
+
+print('comment tu vas ?')
+valeur = str(input())
+if valeur == 'y':
+    print('super !')
+elif valeur == 'n':
+    print('dommage...')
+else:
+    print('Je n\'ai rien commpris cabron')
+
+
