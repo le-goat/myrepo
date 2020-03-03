@@ -31,3 +31,12 @@ elif valeur == 'n':
 else:
     print('Je n\'ai rien commpris cabron')
 
+print("tu aimes l'origami ?")
+valeur = str(input())
+if valeur == 'y':
+    print('super !')
+
+elif valeur == 'n':
+    print('dommage...')
+else:
+    print('Je n\'ai rien commpris petit con va')
