@@ -18,7 +18,7 @@ print('c\'est quoi ton petit nom ?')
 valeur = str(input())
 if valeur == 'y':
     print('super !')
-elif valeur == 'n':
+elif valeur == 'n'
     print('dommage...')
 else:
     print('Je n\'ai rien commpris cabron')
